@@ -7,7 +7,7 @@ http://localhost:8888/api/v1/services
 ```
 
 ## Signup
-### POST
+### Method:POST
 ```
 http://localhost:8888/api/v1/users/signup
 {
@@ -19,7 +19,7 @@ http://localhost:8888/api/v1/users/signup
 ```
 
 ## Log in
-### Method:PSOT
+### Method:POST
 ```
 http://localhost:8888/api/v1/users/login
 {
